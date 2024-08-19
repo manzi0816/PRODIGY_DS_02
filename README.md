@@ -1,0 +1,1 @@
+This project was done under the @ProdigyInfotech Internship Program. This is task #02 of the series. This task features the titanic dataset, on which i have performed data cleaning and EDA,then made a visual representation.
